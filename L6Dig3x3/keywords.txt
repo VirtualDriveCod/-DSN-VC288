@@ -1,0 +1,6 @@
+L6Dig3x3	KEYWORD1
+
+regen	KEYWORD2
+tetradToSegCod	KEYWORD2
+print	KEYWORD2
+
